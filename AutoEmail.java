@@ -14,7 +14,7 @@ public class AutoEmail {
                 "tmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin";
 
         String emailAddr = "alvee.bit03@gmail.com";
-        String emailPass = "Alvee_123";
+        String emailPass = "pass_here";
         String emailToAddress = "anowar@bitmascot.com";
         String emailSubject = "Hello From Java Automation";
         String emailBody = "Hello bro, \n \nThis is an automated email using java webdriver. \n \n" +
