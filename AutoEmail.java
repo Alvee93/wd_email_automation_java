@@ -13,9 +13,9 @@ public class AutoEmail {
                 "identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&l" +
                 "tmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin";
 
-        String emailAddr = "alvee.bit03@gmail.com";
+        String emailAddr = "_from_email_address_here_";
         String emailPass = "pass_here";
-        String emailToAddress = "anowar@bitmascot.com";
+        String emailToAddress = "_to_email_address_here_";
         String emailSubject = "Hello From Java Automation";
         String emailBody = "Hello bro, \n \nThis is an automated email using java webdriver. \n \n" +
                 "Lorem ipsum dolor sit amet proin gravida. Lorem ipsum dolor sit amet proin gravida. " +
