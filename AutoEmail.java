@@ -25,11 +25,11 @@ public class AutoEmail {
         String actualTitle = "";
 
 /*        System.setProperty("webdriver.gecko.driver", //webdriver.gecko.driver, instead chrome driver
-                "C:\\Users\\Alvee\\Downloads\\geckodriver-v0.19.1-win64\\geckodriver.exe");   // Set Fire fox Driver class path
+                "C:\\Users\\_pc_user_\\Downloads\\geckodriver-v0.19.1-win64\\geckodriver.exe");   // Set Fire fox Driver class path
         WebDriver driver = new FirefoxDriver(); //Create a instance of FireFox Driver
 */
         System.setProperty("webdriver.chrome.driver", //webdriver.gecko.driver, instead chrome driver
-                "C:\\Users\\Alvee\\Downloads\\geckodriver-v0.19.1-win64\\chromedriver.exe");   // Set Fire fox Driver class path
+                "C:\\Users\\_pc_user_\\Downloads\\geckodriver-v0.19.1-win64\\chromedriver.exe");   // Set Google Chrome Driver class path
         WebDriver driver = new ChromeDriver(); //Create a instance of Google Chrome Driver
 
 
